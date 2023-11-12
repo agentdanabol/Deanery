@@ -1,0 +1,37 @@
+.header__top {
+  height: 100px;
+  padding: 10px 100px 10px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #9a4eff;
+}
+
+.main__title {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.button__list {
+  display: flex;
+  gap: 10px;
+}
+
+.button__item {
+  background-color: #ffea3d;
+  padding: 15px 20px 15px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.nav__list {
+  height: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffea3d;
+}
