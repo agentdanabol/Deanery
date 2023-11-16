@@ -1,3 +1,5 @@
 # Deanery
 
-DB coursework
+Databases coursework.
+
+React JS + Java Spring
